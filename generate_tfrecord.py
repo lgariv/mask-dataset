@@ -47,7 +47,7 @@ def class_text_to_int(row_label):
     elif row_label == 'ace':
         return 6
     else:
-        None
+        0
 
 
 def split(df, group):
