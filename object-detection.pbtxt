@@ -3,7 +3,7 @@ item {
   id: 1
 }
 item {
-  name: ""without_mask"
+  name: "without_mask"
   id: 2
 }
 item {
