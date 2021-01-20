@@ -1,4 +1,4 @@
-filename,width,height,label,xmin,ymin,xmax,ymax
+filename,width,height,class,xmin,ymin,xmax,ymax
 maksssksksss0.png,512,366,without_mask,79,105,109,142
 maksssksksss0.png,512,366,with_mask,185,100,226,144
 maksssksksss0.png,512,366,without_mask,325,90,360,141
